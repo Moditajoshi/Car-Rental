@@ -37,7 +37,7 @@ const Header = () => {
     <header className="header">
       {/* ============ header top ============ */}
       <div className="header__top">
-        <Container>
+        {/* <Container>
           <Row>
             <Col lg="6" md="6" sm="6">
               <div className="header__top__left">
@@ -60,7 +60,7 @@ const Header = () => {
               </div>
             </Col>
           </Row>
-        </Container>
+        </Container> */}
       </div>
 
       {/* =============== header middle =========== */}
@@ -86,8 +86,8 @@ const Header = () => {
                   <i class="ri-earth-line"></i>
                 </span>
                 <div className="header__location-content">
-                  <h4>Bangladesh</h4>
-                  <h6>Sylhet City, Bangladesh</h6>
+                  <h4>Chandigarh</h4>
+                  <h6>Punjab, India</h6>
                 </div>
               </div>
             </Col>
